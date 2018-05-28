@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  .content {
+    display: flex;
+    width: 742px;
+    flex-direction: column;
+    .task-list {
+      width: 742px;
+      .task-item {
+        margin-top: 10px;
+      }
+    }
+  }
+
+}
+
+
